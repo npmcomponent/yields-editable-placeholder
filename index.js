@@ -2,9 +2,9 @@
  * dependencies
  */
 
-var classes = require('classes')
-  , events = require('events')
-  , raf = require('raf')
+var classes = require('component-classes')
+  , events = require('component-events')
+  , raf = require('component-raf')
 
 /**
  * Export `Placeholder`

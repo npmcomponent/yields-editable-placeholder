@@ -1,0 +1,19 @@
+{
+  "name": "yields-editable-placeholder",
+  "description": "Editable placeholder.",
+  "version": "0.1.3",
+  "keywords": [
+    "editable",
+    "placeholder"
+  ],
+  "main": "index.js",
+  "styles": [
+    "editable-placeholder.css"
+  ],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  },
+  "license": "MIT"
+}
